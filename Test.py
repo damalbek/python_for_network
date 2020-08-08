@@ -1,1 +1,1 @@
-print ("Hello Kz!")
+print ("Hello Kazakhstan!")
